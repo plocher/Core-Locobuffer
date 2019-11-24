@@ -1,0 +1,3 @@
+Standalone "locobuffer-style" Loconet interface with I2C expandability using the USB capability of an Arduino Pro Micro
+
+Developed in conjunction with [Alex Shepherd](https://mrrwa.org/2018/04/08/locolinx32u4-on-core-locobuffer/)
