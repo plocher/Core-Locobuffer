@@ -5,5 +5,5 @@ fabricated: yes
 fab_date: 2017-11
 status: released
 release: yes
-tags: [eagle, SPCoast]
+tags: [eagle, SPCoast, LCB, Processor]
 image_path: Core-Locobuffer-Graphic.png
